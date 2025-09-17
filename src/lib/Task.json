@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Estudar HTML e CSS",
+    "ready": true
+  },
+  {
+    "content": "Praticar JavaScript por 2 horas",
+    "ready": false
+  },
+  {
+    "content": "Revisar anotações do curso",
+    "ready": true
+  },
+  {
+    "content": "Fazer exercícios de lógica de programação",
+    "ready": false
+  },
+  {
+    "content": "Ler sobre boas práticas de código",
+    "ready": false
+  }
+]
